@@ -26,6 +26,10 @@
   ],
   "main": "./lib",
   "dependencies": {
+    "node-forge": "~0.6.14"
+  },
+  "optionalDependencies": {
+    "ursa": "~0.8.0"
   },
   "devDependencies": {
     "mocha": "1.x.x",
